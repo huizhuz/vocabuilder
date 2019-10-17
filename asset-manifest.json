@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vocabuilder/static/css/main.b100e6da.chunk.css",
+    "main.js": "/vocabuilder/static/js/main.ed38b07b.chunk.js",
+    "main.js.map": "/vocabuilder/static/js/main.ed38b07b.chunk.js.map",
+    "runtime-main.js": "/vocabuilder/static/js/runtime-main.3f2d9695.js",
+    "runtime-main.js.map": "/vocabuilder/static/js/runtime-main.3f2d9695.js.map",
+    "static/js/2.3ad60d84.chunk.js": "/vocabuilder/static/js/2.3ad60d84.chunk.js",
+    "static/js/2.3ad60d84.chunk.js.map": "/vocabuilder/static/js/2.3ad60d84.chunk.js.map",
+    "index.html": "/vocabuilder/index.html",
+    "precache-manifest.a4dbe7b0e481353903ae2ccc133a479c.js": "/vocabuilder/precache-manifest.a4dbe7b0e481353903ae2ccc133a479c.js",
+    "service-worker.js": "/vocabuilder/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/vocabuilder/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/vocabuilder/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f2d9695.js",
+    "static/js/2.3ad60d84.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.ed38b07b.chunk.js"
+  ]
+}

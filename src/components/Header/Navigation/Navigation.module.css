@@ -1,0 +1,31 @@
+.Navigation{
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F5EFD7;
+}
+
+.Link{
+    text-decoration: none;
+    color: #44494F;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1rem;
+    transition: 0.3s;
+    padding: 0.5rem;
+}
+
+.Link:hover,
+.Link:active,
+.Link.active
+{
+    cursor: pointer;
+    color: black;
+}
+
+@media(max-width: 600px) {
+    .Link{
+        font-size: 0.85rem;
+    }
+}

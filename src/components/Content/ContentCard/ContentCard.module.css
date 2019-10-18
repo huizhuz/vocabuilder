@@ -1,0 +1,15 @@
+.ContentCard{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #7D9E3F;
+    border-radius: 0.5rem;
+}
+
+@media(max-width: 820px) {
+    .ContentCard{
+        width: 100%;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}

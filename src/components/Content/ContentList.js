@@ -7,15 +7,19 @@ import img3 from '../../assets/img/img3.jpeg'
 
 const ContentList = () => {
     const titles = [
-        {id: 0, title: 'One Phrase A Day', route: '/vocabuilder/one-phrase-a-day', img: img1},
-        {id: 1, title: 'Test Your Vocabulary!', route: '/vocabuilder/vocab-quiz', img: img2},
-        {id: 2, title: 'Contact The Creator', route: '/vocabuilder/contact', img: img3}
+        { id: 0, title: 'One Phrase A Day', route: '/vocabuilder/one-phrase-a-day', img: img1 },
+        { id: 1, title: 'Test Your Vocabulary!', route: '/vocabuilder/vocab-quiz', img: img2 },
+        { id: 2, title: 'Contact The Creator', route: '/vocabuilder/contact', img: img3 }
     ];
     return (
         <div className={styles.ContentList}>
             {
                 titles.map(eachTitle => {
-                    return <ContentCard title={eachTitle.title} route={eachTitle.route} img={eachTitle.img} key={eachTitle.id}></ContentCard>
+                    return <ContentCard
+                        title={eachTitle.title}
+                        route={eachTitle.route}
+                        img={eachTitle.img}
+                        key={eachTitle.id}></ContentCard>
                 })
             }
         </div>

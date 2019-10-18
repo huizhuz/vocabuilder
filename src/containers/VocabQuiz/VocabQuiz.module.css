@@ -1,7 +1,28 @@
 .VocabQuiz{
+    width: 80vw;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     margin-top: 4rem;
+}
+.AnswerBoxes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-around;
+    align-items: space-between;
+}
+.Title{
+    border-radius: 8px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1rem;
+    transition: 0.3s;
+    padding: 1rem;
+}
+
+.Title h4{
+    padding: 1rem;
+    background-color: #ebe0e07c;
+    border-radius: 8px;
 }

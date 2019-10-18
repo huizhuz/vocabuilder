@@ -1,0 +1,11 @@
+.AnswerBox{
+    min-width: 20vw;
+    border-radius: 8px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    color: white;
+}
+

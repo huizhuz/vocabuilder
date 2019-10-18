@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import styles from './OnePhraseADay.module.css'
-import img6 from '../../assets/img/img7.jpeg'
+import img6 from '../../assets/img/img6.jpeg'
 
 import phrases from './phrases'
 
@@ -34,7 +34,7 @@ export class OnePhraseADay extends Component {
                         <h4>{phrase.phrase}</h4>
                         <h5>{phrase.definition}</h5>
                     </div>
-                    <p>Resources are found <a href="https://www.kaplaninternational.com/blog/halloween-idioms">here</a> and <a href="https://blog.esllibrary.com/2015/10/27/10-halloween-idioms-expressions/">here</a>!</p>
+                    <p>Resources are found <a target="_blank" href="https://www.kaplaninternational.com/blog/halloween-idioms">here</a> and <a target="_blank" href="https://blog.esllibrary.com/2015/10/27/10-halloween-idioms-expressions/">here</a>!</p>
                 </div>
 
             );

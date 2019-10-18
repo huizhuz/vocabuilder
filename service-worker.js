@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vocabuilder/precache-manifest.467deecd4959fb00e9a15071479fa3b4.js"
+  "/vocabuilder/precache-manifest.836a5212196131ce241aa0b2cf1c610b.js"
 );
 
 self.addEventListener('message', (event) => {

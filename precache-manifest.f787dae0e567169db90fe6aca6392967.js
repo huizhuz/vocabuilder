@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68ccee3b0556e5bb938883572b086333",
+    "revision": "0c30ad1a4d074fc71b6e18d07efaaefc",
     "url": "/vocabuilder/index.html"
   },
   {
-    "revision": "d7d86a94870895fbbd4d",
+    "revision": "54ff3b1370ac7fbbe408",
     "url": "/vocabuilder/static/css/main.5bb6b9da.chunk.css"
   },
   {
-    "revision": "0a1f2a15effd777e0e4b",
-    "url": "/vocabuilder/static/js/2.46d1018f.chunk.js"
+    "revision": "36fab14a722963a8ebda",
+    "url": "/vocabuilder/static/js/2.a7a0ac56.chunk.js"
   },
   {
-    "revision": "d7d86a94870895fbbd4d",
-    "url": "/vocabuilder/static/js/main.d976648e.chunk.js"
+    "revision": "54ff3b1370ac7fbbe408",
+    "url": "/vocabuilder/static/js/main.92f9912b.chunk.js"
   },
   {
     "revision": "3398a9bb17e7187dd894",

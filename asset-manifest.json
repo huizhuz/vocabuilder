@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/vocabuilder/static/css/main.b100e6da.chunk.css",
-    "main.js": "/vocabuilder/static/js/main.ed38b07b.chunk.js",
-    "main.js.map": "/vocabuilder/static/js/main.ed38b07b.chunk.js.map",
+    "main.css": "/vocabuilder/static/css/main.d1a1a6a4.chunk.css",
+    "main.js": "/vocabuilder/static/js/main.e992cc6b.chunk.js",
+    "main.js.map": "/vocabuilder/static/js/main.e992cc6b.chunk.js.map",
     "runtime-main.js": "/vocabuilder/static/js/runtime-main.3f2d9695.js",
     "runtime-main.js.map": "/vocabuilder/static/js/runtime-main.3f2d9695.js.map",
-    "static/js/2.3ad60d84.chunk.js": "/vocabuilder/static/js/2.3ad60d84.chunk.js",
-    "static/js/2.3ad60d84.chunk.js.map": "/vocabuilder/static/js/2.3ad60d84.chunk.js.map",
+    "static/js/2.c21903ce.chunk.js": "/vocabuilder/static/js/2.c21903ce.chunk.js",
+    "static/js/2.c21903ce.chunk.js.map": "/vocabuilder/static/js/2.c21903ce.chunk.js.map",
     "index.html": "/vocabuilder/index.html",
-    "precache-manifest.a4dbe7b0e481353903ae2ccc133a479c.js": "/vocabuilder/precache-manifest.a4dbe7b0e481353903ae2ccc133a479c.js",
+    "precache-manifest.fbcc316d7f2ff44a616eb09b41a497bf.js": "/vocabuilder/precache-manifest.fbcc316d7f2ff44a616eb09b41a497bf.js",
     "service-worker.js": "/vocabuilder/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/vocabuilder/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/vocabuilder/static/media/logo.25bf045c.svg"
+    "static/css/main.d1a1a6a4.chunk.css.map": "/vocabuilder/static/css/main.d1a1a6a4.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3f2d9695.js",
-    "static/js/2.3ad60d84.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.ed38b07b.chunk.js"
+    "static/js/2.c21903ce.chunk.js",
+    "static/css/main.d1a1a6a4.chunk.css",
+    "static/js/main.e992cc6b.chunk.js"
   ]
 }

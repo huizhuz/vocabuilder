@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vocabuilder/static/css/main.f3a72598.chunk.css",
-    "main.js": "/vocabuilder/static/js/main.43fe45a3.chunk.js",
-    "main.js.map": "/vocabuilder/static/js/main.43fe45a3.chunk.js.map",
+    "main.js": "/vocabuilder/static/js/main.54c66c33.chunk.js",
+    "main.js.map": "/vocabuilder/static/js/main.54c66c33.chunk.js.map",
     "runtime-main.js": "/vocabuilder/static/js/runtime-main.3f2d9695.js",
     "runtime-main.js.map": "/vocabuilder/static/js/runtime-main.3f2d9695.js.map",
     "static/js/2.d721f522.chunk.js": "/vocabuilder/static/js/2.d721f522.chunk.js",
     "static/js/2.d721f522.chunk.js.map": "/vocabuilder/static/js/2.d721f522.chunk.js.map",
     "index.html": "/vocabuilder/index.html",
-    "precache-manifest.665da3e923544916db355477cd389dc1.js": "/vocabuilder/precache-manifest.665da3e923544916db355477cd389dc1.js",
+    "precache-manifest.467deecd4959fb00e9a15071479fa3b4.js": "/vocabuilder/precache-manifest.467deecd4959fb00e9a15071479fa3b4.js",
     "service-worker.js": "/vocabuilder/service-worker.js",
     "static/css/main.f3a72598.chunk.css.map": "/vocabuilder/static/css/main.f3a72598.chunk.css.map",
     "static/media/img1.jpeg": "/vocabuilder/static/media/img1.66b17af6.jpeg",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3f2d9695.js",
     "static/js/2.d721f522.chunk.js",
     "static/css/main.f3a72598.chunk.css",
-    "static/js/main.43fe45a3.chunk.js"
+    "static/js/main.54c66c33.chunk.js"
   ]
 }

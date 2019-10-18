@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b96b35ed1caafce910ebeec81bb348a",
+    "revision": "00f01914c6290c1190937e7690418ac1",
     "url": "/vocabuilder/index.html"
   },
   {
-    "revision": "ede1e5b404c093af2951",
+    "revision": "29ce7840337f0582cc22",
     "url": "/vocabuilder/static/css/main.f3a72598.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vocabuilder/static/js/2.d721f522.chunk.js"
   },
   {
-    "revision": "ede1e5b404c093af2951",
-    "url": "/vocabuilder/static/js/main.43fe45a3.chunk.js"
+    "revision": "29ce7840337f0582cc22",
+    "url": "/vocabuilder/static/js/main.54c66c33.chunk.js"
   },
   {
     "revision": "3398a9bb17e7187dd894",

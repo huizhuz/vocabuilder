@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import styles from './VocabQuiz.js'
+import styles from './VocabQuiz.module.css'
 
 export class VocabQuiz extends Component {
     render() {

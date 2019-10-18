@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import styles from './OnePhraseADay.js'
+import styles from './OnePhraseADay.module.css'
 
 
 export class OnePhraseADay extends Component {

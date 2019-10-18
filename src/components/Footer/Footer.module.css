@@ -10,3 +10,11 @@
     font-family: 'Quicksand', sans-serif;
     font-size: 0.8rem;
 }
+
+a{
+    text-decoration: none;
+    color: #C6574F;
+}
+a:hover{
+    font-weight: bold;
+}

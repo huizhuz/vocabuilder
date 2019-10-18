@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route, BrowserRouter, Switch } from 'react-router-dom'
+import { Route, BrowserRouter, Switch, Redirect } from 'react-router-dom'
 import Header from '../src/components/Header/Header'
 import Footer from '../src/components/Footer/Footer'
 import ContentList from '../src/components/Content/ContentList'
@@ -17,10 +17,11 @@ function App() {
       <BrowserRouter>
         <Header />
         <Switch>
-          <Route path="/" exact component={ContentList} />
-          <Route path="/one-phrase-a-day" exact component={OnePhraseADay} />
-          <Route path="/vocab-quiz" exact component={VocabQuiz} />
-          <Route path="/contact" exact component={Contact} />
+          <Redirect path="/" exact to="/vocabuilder" />
+          <Route path="/vocabuilder" exact component={ContentList} />
+          <Route path="/vocabuilder/one-phrase-a-day" exact component={OnePhraseADay} />
+          <Route path="/vocabuilder/vocab-quiz" exact component={VocabQuiz} />
+          <Route path="/vocabuilder/contact" exact component={Contact} />
           <Route component={PageNotFound} />
         </Switch>
       </BrowserRouter>

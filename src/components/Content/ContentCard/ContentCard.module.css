@@ -11,6 +11,10 @@
     margin: 1rem;
 }
 
+.ContentCard:hover {
+    cursor: pointer;
+}
+
 
 @media(max-width: 900px) {
     .ContentCard{

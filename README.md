@@ -1,4 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+Here are some other stuff I used:
+1. React-router
+2. Axios
+3. Firebase
+4. Font-awesome
+5. Unsplash for pretty pictures
+6. Other English learning resources
+
+## Intention
+
+What I want to achieve from creating this app is to combine my background as a language educator and a frontend developer. This is designed as a language learning tool and should be expanded and maintained throughout time.
+
+## Functions
+
+This app has three major functionalities: One phrase a day, Vocabulary quiz, and Contact me.
+
+One phrase a day: On this page, you will see one phrase related to Halloween each day through the rest of October. For now I only added phrases from Oct 18 to Oct 31. 
+
+Vocabulary quiz: On this page, you will be prompted to choose the most relevant word from 4 options. If the answer is correct, a new one will show untill we run out of words. This process can be incredibily fast since we only have 4 words added for the moment. New words will continue to be added. 
+
+Contact me: The form information will be sent to firebase.
+
 
 ## Available Scripts
 

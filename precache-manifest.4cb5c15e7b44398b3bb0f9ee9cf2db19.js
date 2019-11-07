@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c6ccea5081d0a28da572693f60bbace",
+    "revision": "fbe1366569ae38baf318a3f64b34679d",
     "url": "/vocabuilder/index.html"
   },
   {
-    "revision": "431b6dd39bd5e596e8fd",
-    "url": "/vocabuilder/static/css/main.7decc84f.chunk.css"
+    "revision": "6ecbcf84b97f4cd61de2",
+    "url": "/vocabuilder/static/css/main.306a12df.chunk.css"
   },
   {
     "revision": "a264a233a20948f7d3a9",
     "url": "/vocabuilder/static/js/2.84875c70.chunk.js"
   },
   {
-    "revision": "431b6dd39bd5e596e8fd",
-    "url": "/vocabuilder/static/js/main.db4d57f6.chunk.js"
+    "revision": "6ecbcf84b97f4cd61de2",
+    "url": "/vocabuilder/static/js/main.7c72b56d.chunk.js"
   },
   {
     "revision": "3398a9bb17e7187dd894",
@@ -36,11 +36,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vocabuilder/static/media/img4.c1cd74f9.jpeg"
   },
   {
-    "revision": "9be144f65e57867e9e701838b76d503e",
-    "url": "/vocabuilder/static/media/img5.9be144f6.jpeg"
+    "revision": "151a806b9fb7d6bb2434209f8ead5357",
+    "url": "/vocabuilder/static/media/img7.151a806b.jpeg"
   },
   {
-    "revision": "6703bb2727b724833b82beda843d8803",
-    "url": "/vocabuilder/static/media/img6.6703bb27.jpeg"
+    "revision": "dca33502b2170fee0e3b2d450bf3ea0b",
+    "url": "/vocabuilder/static/media/img8.dca33502.jpeg"
   }
 ]);
